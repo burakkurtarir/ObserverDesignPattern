@@ -1,0 +1,11 @@
+C:\Users\Berk\source\repos\ObserverDesignPattern\RealWorld\bin\Debug\netcoreapp2.1\RealWorld.deps.json
+C:\Users\Berk\source\repos\ObserverDesignPattern\RealWorld\bin\Debug\netcoreapp2.1\RealWorld.runtimeconfig.json
+C:\Users\Berk\source\repos\ObserverDesignPattern\RealWorld\bin\Debug\netcoreapp2.1\RealWorld.runtimeconfig.dev.json
+C:\Users\Berk\source\repos\ObserverDesignPattern\RealWorld\bin\Debug\netcoreapp2.1\RealWorld.dll
+C:\Users\Berk\source\repos\ObserverDesignPattern\RealWorld\bin\Debug\netcoreapp2.1\RealWorld.pdb
+C:\Users\Berk\source\repos\ObserverDesignPattern\RealWorld\obj\Debug\netcoreapp2.1\RealWorld.csprojAssemblyReference.cache
+C:\Users\Berk\source\repos\ObserverDesignPattern\RealWorld\obj\Debug\netcoreapp2.1\RealWorld.csproj.CoreCompileInputs.cache
+C:\Users\Berk\source\repos\ObserverDesignPattern\RealWorld\obj\Debug\netcoreapp2.1\RealWorld.AssemblyInfoInputs.cache
+C:\Users\Berk\source\repos\ObserverDesignPattern\RealWorld\obj\Debug\netcoreapp2.1\RealWorld.AssemblyInfo.cs
+C:\Users\Berk\source\repos\ObserverDesignPattern\RealWorld\obj\Debug\netcoreapp2.1\RealWorld.dll
+C:\Users\Berk\source\repos\ObserverDesignPattern\RealWorld\obj\Debug\netcoreapp2.1\RealWorld.pdb
